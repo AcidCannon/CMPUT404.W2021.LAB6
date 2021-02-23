@@ -1,6 +1,8 @@
 # CMPUT404.W2021.LAB4
 This is the LAB4 solution for CMPUT404 Winter 2021.  
-LAB4 webpage: https://uofa-cmput404.github.io/lab-4-django.html
+LAB4 webpage: https://uofa-cmput404.github.io/lab-4-django.html  
+App deployed at: https://cmput404-w2021-lab6.herokuapp.com/  
+(However you should go to https://cmput404-w2021-lab6.herokuapp.com/polls/)
 
 # LICENSE
                                  Apache License
